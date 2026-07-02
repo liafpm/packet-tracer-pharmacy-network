@@ -9,7 +9,7 @@ The project simulates the network infrastructure of a new pharmaceutical branch,
 
 > Academic team project developed at Universidad Autónoma de Nuevo León.
 
-![Network topology](screenshots/network-topology.png)
+![Network topology](screenshots/network-topology.jpeg)
 
 ## Project Overview
 
@@ -117,19 +117,19 @@ The following tests were completed successfully:
 
 ### Complete Network Topology
 
-![Complete topology](screenshots/network-topology.png)
+![Complete topology](screenshots/network-topology.jpeg)
 
 ### DHCP Test
 
-![DHCP test](screenshots/dhcp-test.png)
+![DHCP test](screenshots/dhcp-test.jpeg)
 
 ### DNS and Web Server Test
 
-![DNS and web test](screenshots/dns-web-test.png)
+![DNS and web test](screenshots/dns-web-test.jpeg)
 
 ### Email Connectivity Test
 
-![Email test](screenshots/email-connectivity-test.png)
+![Email test](screenshots/email-connectivity-test.jpeg)
 
 ## Repository Contents
 
