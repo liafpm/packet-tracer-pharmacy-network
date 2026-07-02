@@ -121,7 +121,7 @@ The following tests were completed successfully:
 
 ### DHCP Test
 
-![DHCP test](screenshots/dhcp-test.jpeg)
+![DHCP test](screenshots/dhcp-test.jpg)
 
 ### DNS and Web Server Test
 
