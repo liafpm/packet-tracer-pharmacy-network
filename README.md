@@ -149,16 +149,52 @@ This project was developed collaboratively. My main contributions were:
 - Assisting with the definition of the DHCP address pool, default gateway, subnet mask and DNS server.
 - Troubleshooting routing and connectivity issues during the simulation.
 
+## Individual Laboratory Extension
+
+After completing the collaborative network design, I reused the same base topology
+for an individual laboratory project. This version focused on device administration,
+basic security and remote access configuration.
+
+The additional configurations included:
+
+- Assigning descriptive hostnames to routers and switches.
+- Configuring console access on network devices.
+- Protecting console sessions with passwords.
+- Configuring `enable secret` for privileged EXEC access.
+- Adding a Message of the Day banner for unauthorized-access warnings.
+- Enabling `service password-encryption`.
+- Assigning management IP addresses to switches.
+- Configuring remote device administration through Telnet.
+- Verifying access and connectivity from a management workstation.
+
+This extension allowed me to practice not only network routing and services, but also
+the initial configuration and administration of Cisco infrastructure.
+
+## Project Versions
+
+| Version | Type | Main Focus |
+|---|---|---|
+| Base Network Project | Collaborative | VLSM, RIP v2, DHCP, DNS, HTTP, email and wireless connectivity |
+| Laboratory Extension | Individual | Hostnames, console security, password encryption, MOTD, switch management and Telnet |
+
 ## Skills Demonstrated
 
-- Network design
-- IPv4 subnetting and VLSM
+- Cisco Packet Tracer
+- Network topology design
+- IPv4 addressing
+- Subnetting and VLSM
+- RIP v2 dynamic routing
 - Cisco IOS configuration
-- Dynamic routing
-- DHCP and DNS administration
+- Router and switch configuration
+- DHCP configuration
+- DNS and HTTP services
+- Wireless network security
+- Console and remote device access
 - Network troubleshooting
+- Connectivity testing
 - Technical documentation
 - Team collaboration
+- Individual network implementation
 
 ## How to Open the Project
 
